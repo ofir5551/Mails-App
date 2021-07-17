@@ -1,0 +1,44 @@
+$tableBorderColor: #ddd;
+
+.mails {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+table,
+td,
+th {
+  border: 1px solid $tableBorderColor;
+  border-collapse: collapse;
+  padding: 8px;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  text-align: center;
+  th {
+    border: 1px solid $tableBorderColor;
+    background-color: gray;
+    padding: 15px;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+}
+
+td {
+  height: 40px;
+  min-width: 25%;
+  cursor: default;
+}
+
+#subject-td {
+  min-width: 75%;
+}
+
+#subject-text {
+  cursor: pointer;
+}
+
+#flag-img {
+  height: 15px;
+  cursor: pointer;
+}

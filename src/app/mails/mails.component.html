@@ -1,0 +1,30 @@
+<div class="mails" *ngIf="mails; else elseBlock">
+  <h2>You have {{ unreadCount }} unread of {{ readCount }} mails</h2>
+  <table>
+    <tr>
+      <th>From</th>
+      <th>Subject</th>
+    </tr>
+    <tr
+      *ngFor="let mail of mails; let i = index"
+      [style.fontWeight]="mail.isRead ? 'normal' : 'bolder'"
+    >
+      <td>{{ mail.from }}</td>
+      <td id="subject">
+        <img
+          id="flag-img"
+          *ngIf="mail.isRead"
+          (click)="onFlagClick(i)"
+          src="https://img.icons8.com/ios-filled/50/000000/empty-flag.png"
+        />
+        <span id="subject-text" (click)="onMailClick(i)" routerLink="../mail/{{ i }}">
+          {{ mail.subject }}
+        </span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<ng-template #elseBlock>
+  <p>Please login in order to view your emails</p>
+</ng-template>

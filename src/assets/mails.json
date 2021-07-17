@@ -1,0 +1,38 @@
+[
+  {
+    "from": "Bill Gates",
+    "isRead": false,
+    "subject": "Why is Windows 11 so special?",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum dolor pellentesque, blandit massa porta, elementum dui. Donec euismod malesuada risus, et porttitor metus fringilla vel. Praesent semper, eros eget molestie blandit, massa augue tempor neque, at consequat turpis tellus ac velit. Proin ipsum orci, dignissim ut leo et, euismod pharetra magna. Vivamus sapien est, rutrum in ligula ut, sollicitudin efficitur risus. Cras volutpat suscipit ex ac dignissim. Sed dapibus, magna nec finibus condimentum, neque diam dapibus eros, vitae convallis purus neque ut turpis. Donec sit amet lacus sed lacus fermentum condimentum tincidunt eget lorem. Maecenas in imperdiet arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse maximus tempus erat ac vehicula. Aliquam eget risus id ex pharetra interdum. Vivamus sit amet aliquam felis, in scelerisque diam. Duis sapien ex, pulvinar in maximus vitae, scelerisque non nisl. Nullam vulputate aliquet urna in maximus. Donec hendrerit mattis risus at commodo. Pellentesque sodales lacus a nulla suscipit molestie. Morbi eleifend, velit non blandit fringilla, lacus mauris efficitur enim, vel laoreet dolor mauris quis ante. Donec volutpat nibh laoreet tempor bibendum. Nulla facilisi. Vestibulum porta sagittis sem. Praesent nunc diam, pellentesque vel maximus ut, cursus at felis. In eget leo vitae diam pulvinar ultrices id id lorem."
+  },
+  {
+    "from": "Elon Musk",
+    "isRead": false,
+    "subject": "Congratulations - your new Tesla is on its way!",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum dolor pellentesque, blandit massa porta, elementum dui. Donec euismod malesuada risus, et porttitor metus fringilla vel. Praesent semper, eros eget molestie blandit, massa augue tempor neque, at consequat turpis tellus ac velit. Proin ipsum orci, dignissim ut leo et, euismod pharetra magna. Vivamus sapien est, rutrum in ligula ut, sollicitudin efficitur risus. Cras volutpat suscipit ex ac dignissim. Sed dapibus, magna nec finibus condimentum, neque diam dapibus eros, vitae convallis purus neque ut turpis. Donec sit amet lacus sed lacus fermentum condimentum tincidunt eget lorem. Maecenas in imperdiet arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse maximus tempus erat ac vehicula. Aliquam eget risus id ex pharetra interdum. Vivamus sit amet aliquam felis, in scelerisque diam."
+  },
+  {
+    "from": "Nigerian Prince",
+    "isRead": true,
+    "subject": "Dear friend - I need your help",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum dolor pellentesque, blandit massa porta, elementum dui. Donec euismod malesuada risus, et porttitor metus fringilla vel. Praesent semper, eros eget molestie blandit, massa augue tempor neque, at consequat turpis tellus ac velit. Proin ipsum orci, dignissim ut leo et, euismod pharetra magna. Vivamus sapien est, rutrum in ligula ut, sollicitudin efficitur risus. Cras volutpat suscipit ex ac dignissim. Sed dapibus, magna nec finibus condimentum, neque diam dapibus eros, vitae convallis purus neque ut turpis. Donec sit amet lacus sed lacus fermentum condimentum tincidunt eget lorem. Maecenas in imperdiet arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse maximus tempus erat ac vehicula. Aliquam eget risus id ex pharetra interdum. Vivamus sit amet aliquam felis, in scelerisque diam.  Duis sapien ex, pulvinar in maximus vitae, scelerisque non nisl. Nullam vulputate aliquet urna in maximus. Donec hendrerit mattis risus at commodo. Pellentesque sodales lacus a nulla suscipit molestie. Morbi eleifend, velit non blandit fringilla, lacus mauris efficitur enim, vel laoreet dolor mauris quis ante. Donec volutpat nibh laoreet tempor bibendum. Nulla facilisi."
+  },
+  {
+    "from": "Tony Stark",
+    "isRead": true,
+    "subject": "The Avengers need you!",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum dolor pellentesque, blandit massa porta, elementum dui. Donec euismod malesuada risus, et porttitor metus fringilla vel. Praesent semper, eros eget molestie blandit, massa augue tempor neque, at consequat turpis tellus ac velit. Proin ipsum orci, dignissim ut leo et, euismod pharetra magna."
+  },
+  {
+    "from": "Blizzard Entertainment",
+    "isRead": false,
+    "subject": "Verify your account",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum dolor pellentesque, blandit massa porta, elementum dui. Donec euismod malesuada risus, et porttitor metus fringilla vel. Praesent semper, eros eget molestie blandit, massa augue tempor neque, at consequat turpis tellus ac velit. Proin ipsum orci, dignissim ut leo et, euismod pharetra magna. Vivamus sapien est, rutrum in ligula ut, sollicitudin efficitur risus. Cras volutpat suscipit ex ac dignissim. Sed dapibus, magna nec finibus condimentum, neque diam dapibus eros, vitae convallis purus neque ut turpis. Donec sit amet lacus sed lacus fermentum condimentum tincidunt eget lorem. Maecenas in imperdiet arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse maximus tempus erat ac vehicula. Aliquam eget risus id ex pharetra interdum. Vivamus sit amet aliquam felis, in scelerisque diam. Duis sapien ex, pulvinar in maximus vitae, scelerisque non nisl. Nullam vulputate aliquet urna in maximus. Donec hendrerit mattis risus at commodo. Pellentesque sodales lacus a nulla suscipit molestie. Morbi eleifend, velit non blandit fringilla, lacus mauris efficitur enim, vel laoreet dolor mauris quis ante. Donec volutpat nibh laoreet tempor bibendum. Nulla facilisi. Vestibulum porta sagittis sem. Praesent nunc diam, pellentesque vel maximus ut, cursus at felis. In eget leo vitae diam pulvinar ultrices id id lorem.    Mauris sit amet dapibus ex, id congue ligula. Nunc ornare malesuada varius. Nulla eu ante nec nibh maximus vehicula id at lorem. Vestibulum tellus risus, luctus quis rutrum eget, porta porttitor metus. Etiam gravida malesuada placerat. Duis mattis arcu in diam aliquam sollicitudin eget sed ipsum. Morbi et tortor velit. Nulla faucibus, massa et maximus pulvinar, urna enim vestibulum eros, id viverra sapien risus id ipsum. Nullam commodo diam in risus molestie vestibulum. Donec feugiat molestie erat ac feugiat. Curabitur dignissim pretium ante vitae vestibulum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In dignissim elit ante, quis rhoncus lectus porta sed."
+  },
+  {
+    "from": "McDonalds",
+    "isRead": true,
+    "subject": "Special Promotion!",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum dolor pellentesque, blandit massa porta, elementum dui. Donec euismod malesuada risus, et porttitor metus fringilla vel. Praesent semper, eros eget molestie blandit, massa augue tempor neque, at consequat turpis tellus ac velit. Proin ipsum orci, dignissim ut leo et, euismod pharetra magna. Vivamus sapien est, rutrum in ligula ut, sollicitudin efficitur risus. Cras volutpat suscipit ex ac dignissim. Sed dapibus, magna nec finibus condimentum, neque diam dapibus eros, vitae convallis purus neque ut turpis. Donec sit amet lacus sed lacus fermentum condimentum tincidunt eget lorem. Maecenas in imperdiet arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse maximus tempus erat ac vehicula."
+  }
+]
